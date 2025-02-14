@@ -11,7 +11,7 @@ export class EarningService extends EarningData {
 
   private pieChartData = [
     {
-      value: 50,
+      value: 100,
       name: 'Bitcoin',
     },
     {
